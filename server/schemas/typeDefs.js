@@ -22,7 +22,7 @@ input BookInput {
         authors: [String]
         description: String
         title: String
-        bookId: ID
+        bookId: String
         image: String
         link: String
     }
